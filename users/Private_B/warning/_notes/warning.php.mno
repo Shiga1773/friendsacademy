@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_reviewProdukNama" value="name:nama_produk;datatype:string" />
+	<infoitem key="UD_penjualan_nama" value="name:id_produk;datatype:int" />
+	<infoitem key="UD_Recordset1" value="name:produk;datatype:string" />
+	<infoitem key="UD_batal_po" value="name:kode_batal_po;datatype:string" />
+</info>

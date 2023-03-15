@@ -1,0 +1,7 @@
+1Admin
+2Manager
+3Guru
+4Private_A
+5Private_B
+6Semi_Private
+7Group

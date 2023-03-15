@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_list_username" value="name:username;datatype:string" />
+	<infoitem key="UD_Recordset1" value="name:nama2;datatype:string" />
+	<infoitem key="UD_list_nama_produk" value="name:nama2;datatype:string" />
+</info>
